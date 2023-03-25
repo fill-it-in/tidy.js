@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fill-it-in/tidy.git"
+    "url": "git+https://github.com/fill-it-in/tidy.js.git"
   },
   "keywords": [
     "filter",
@@ -19,7 +19,7 @@
   "author": "https://github.com/fill-it-in",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fill-it-in/tidy/issues"
+    "url": "https://github.com/fill-it-in/tidy.js/issues"
   },
-  "homepage": "https://github.com/fill-it-in/tidy#readme"
+  "homepage": "https://github.com/fill-it-in/tidy.js#readme"
 }
