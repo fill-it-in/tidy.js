@@ -1,0 +1,25 @@
+{
+  "name": "tidy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Filters strings for swearing, harassment, URLs, advertising and more.",
+  "main": "tidy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fill-it-in/tidy.git"
+  },
+  "keywords": [
+    "filter",
+    "chat",
+    "string"
+  ],
+  "author": "https://github.com/fill-it-in",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fill-it-in/tidy/issues"
+  },
+  "homepage": "https://github.com/fill-it-in/tidy#readme"
+}
